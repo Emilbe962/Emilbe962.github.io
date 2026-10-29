@@ -1,14 +1,14 @@
 AABE course folder, version 2026-1
 2026-10-29
 
-## 2026-10-29: Skills and folders, installation step
+## 2026-10-29: part 2, Skills and folders, installation step
 
 The student requested installation of folder-context for use across projects and approved the copy.
 Installed skills/folder-context/SKILL.md at /Users/emilberg-jacobsen/.agents/skills/folder-context/SKILL.md.
 The installed file was readable and matched the course source exactly.
 The part's small task and understanding check remain incomplete.
 
-## 2026-10-29: Skills and folders, small task
+## 2026-10-29: part 2, Skills and folders, small task
 
 The student requested a tree of the course folder and a proposed thesis structure.
 The student chose a standalone local project and approved its creation at /Users/emilberg-jacobsen/Documents/masters-thesis.
@@ -17,7 +17,7 @@ Verified that the files and folders exist and that AGENTS.md includes the teache
 The student explained: "because then the original data stays untouched and if something happens you can retrieve it".
 The small task is complete. The remaining learning goals have not all been checked.
 
-## 2026-10-29: Skills and folders, understanding check
+## 2026-10-29: part 2, Skills and folders, understanding check
 
 The student said they would reject a skill that instructed the agent to upload all project files externally.
 The student recognised that saving notes in a new project folder should trigger folder-context.
@@ -51,7 +51,7 @@ The student requested a repository link and supplied the GitHub username emilbe9
 Added https://github.com/emilbe962/emilbe962.github.io to my-page/index.md and verified the saved text.
 The repository's existence and publication status have not been checked.
 
-## 2026-10-29: Agents, small task and understanding check
+## 2026-10-29: part 3, Agents, small task and understanding check
 
 The student requested a review of session-log.md describing tools, results, decisions, and goals.
 The tutor reviewed the logged activities and used this chat for detailed tool results.
