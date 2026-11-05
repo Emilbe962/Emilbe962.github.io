@@ -54,3 +54,7 @@ Two economies with identical technologies and factor endowments open trade. In e
 ## My solution before the check
 
 [Read my original solution (PDF)](./workshop-2-losningsforslag.pdf)
+
+## What the check found
+
+mst0441_verify bekreftet tallene i oppgave 2 og 3, og at beregningene i oppgave 1 ble sjekket manuelt. Det ble ikke funnet regnefeil. Tilbakemeldingen pekte på at du brukte \(a_L\) der kurset bruker \(a_E\), og at forklaringen om faste kostnader i oppgave 4 kunne vært tydeligere. Jeg gjorde ingen endringer etter sjekken. 
