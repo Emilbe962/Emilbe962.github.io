@@ -12,5 +12,5 @@ Master of Science in Business, major in Economics, BI.
 
 Session 2: The design for a new tutor.
 
-- [Economics Study Coach](https://github.com/Emilbe962/economics-study-coach)
+- [Economics Study Coach]([)](https://github.com/Emilbe962/economics-study-coach/blob/main/design.md)
   
